@@ -30,8 +30,8 @@ ALL_COUNTRIES = ['Australia', 'AU', 'Austria', 'AT', 'Belgium', 'BE', 'Canada',
                  'Norway', 'NO', 'Polish', 'PL', 'Portugal', 'PT',
                  'PortugalExt', 'PTE', 'Scotland', 'Slovenia', 'SI',
                  'Slovakia', 'SK', 'South Africa', 'ZA', 'Spain', 'ES',
-                 'Sweden', 'SE', 'UnitedKingdom', 'UK', 'UnitedStates', 'US',
-                 'Wales']
+                 'Sweden', 'SE', 'Switzerland', 'CH', 'UnitedKingdom', 'UK', 
+                 'UnitedStates', 'US', 'Wales']
 CONF_COUNTRY = 'country'
 CONF_PROVINCE = 'province'
 CONF_WORKDAYS = 'workdays'
